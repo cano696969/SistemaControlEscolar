@@ -3,9 +3,8 @@ Desarrollo en C# para Visual Studio de un sistema escolar que administra calific
 
 <div align="center"
 
-![how-refine-works](https://github.com/cano696969/2D-unity-URP/assets/158393938/57ad60f6-fd2e-43a8-bf3e-00cc376e5137)
+![png-web-Br](https://github.com/cano696969/SistemaControlEscolar/assets/158393938/4e0d5a0a-f010-4302-bf96-e79a9e78baee)
 
-</div>
 </a>
 <br/>
 <br/>
@@ -28,37 +27,17 @@ Desarrollo en C# para Visual Studio de un sistema escolar que administra calific
 </div>
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/com.rmc.rmc-core">
-    <img src="https://img.shields.io/npm/v/com.rmc.rmc-core" alt="npm package">
+  <a href="https://github.com/tu-usuario/tu-proyecto">
+    <img src="https://img.shields.io/badge/Lenguaje-C%23-blue?style=for-the-badge&logo=c-sharp" alt="Lenguaje">
   </a>
-  <a href="https://opensource.org/licenses/MIT">
-    <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT">
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://unity.com/">
-    <img src="https://img.shields.io/badge/Plataforma-Unity-green" alt="Plataforma">
-  </a>
-  <a href="https://unity.com/">
-    <img src="https://img.shields.io/badge/Unity-2019.4%2B-blue" alt="Versión de Unity">
-  </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/">
-    <img src="https://img.shields.io/badge/Lenguaje-C%23-blue" alt="Lenguaje de Programación">
+  <a href="https://visualstudio.microsoft.com/es/">
+    <img src="https://img.shields.io/badge/IDE-Visual%20Studio-purple?style=for-the-badge&logo=visual-studio" alt="IDE">
   </a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/tuusuario/tuproyecto">
-    <img src="https://img.shields.io/badge/Estado-Estable-brightgreen" alt="Estado del Proyecto">
-  </a>
-  <a href="https://github.com/tuusuario/tuproyecto/docs">
-    <img src="https://img.shields.io/badge/Documentaci%C3%B3n-S%C3%AD-blue" alt="Documentación">
-  </a>
-  <a href="https://github.com/tuusuario/tuproyecto/blob/main/CONTRIBUTING.md">
-    <img src="https://img.shields.io/badge/Contribuciones-Bienvenidas-brightgreen" alt="Contribuciones Bienvenidas">
-  </a>
-</p>
+
+
+![Banner Presentacion](https://github.com/cano696969/SistemaControlEscolar/assets/158393938/77f94c94-6de3-4eb1-acfe-41ee2f86f806)
 
 
 <div align="center">
@@ -68,8 +47,6 @@ Desarrollo en C# para Visual Studio de un sistema escolar que administra calific
 </div>
 
 <br/>
-
-![how-refine-works](https://github.com/cano696969/2D-unity-URP/assets/158393938/a6281877-72bc-4454-add8-77970cf27b49)
 
 
 > Sismple sistema de control escolar , desarollado en lenguaje C#
