@@ -1,0 +1,6 @@
+//Mirar el video para saber donde colocar el código.
+
+MaterialSkin.Controls.MaterialForm
+
+SkinManager.Theme = MaterialSkinManager.Themes.LIGHT;
+SkinManager.ColorScheme = new ColorScheme(Primary.LightBlue900,Primary.Amber900, Primary.LightGreen900, Accent.Green700,TextShade.WHITE);
